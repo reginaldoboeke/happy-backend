@@ -1,2 +1,8 @@
-node_modules/
+# VS Code
 .vscode
+
+# Node
+node_modules/
+
+# Uploads
+uploads/
